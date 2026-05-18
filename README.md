@@ -52,10 +52,10 @@ My approach combines **User-Centered Design Thinking** with clean, efficient cod
 <br/>
 
 <div align="center">
-  <a href="mailto:dungchau.uxdev@gmail.com">
+  <a href="mailto:work.manhdung@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/chau-manh-dung-a7257a38a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
