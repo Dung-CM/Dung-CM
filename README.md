@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00ddff&center=true&vCenter=true&width=600&lines=👋+Welcome+to+my+Ocean+of+Code;🐬+Crafting+Fluid+User+Experiences;🌊+Full-Stack+Web+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00ddff&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Welcome+to+my+Ocean+of+Code;%F0%9F%90%AC+Crafting+Fluid+User+Experiences;%F0%9F%8C%8A+Full-Stack+Web+Explorer" alt="Typing SVG" />
 
 <br/>
 
@@ -28,24 +28,34 @@ Hello! I'm **Chau Manh Dung**, a passionate **UX & Full-Stack Web Developer**. I
 
 My approach combines **User-Centered Design Thinking** with clean, efficient code to create digital products that not only work flawlessly but also delight users.
 
-I enjoy exploring new web technologies and bridging the gap between imaginative designs and functional development.
+---
+
+## ⚡ My Coding Universe 
+
+<div align="center">
+  <marquee behavior="scroll" direction="alternate" scrollamount="10">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,alpinejs,php,laravel,mysql,git,vscode,figma,postman&theme=light" />
+  </marquee>
+</div>
+
+<br/>
 
 ---
 
-## 🌊 Waves of Contribution (Stats)
+## 🌊 Waves of Contribution
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ddff&icon_color=00ddff" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00ddff&fire=00ddff&currStreakLabel=00ddff" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ddff&icon_color=00ddff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00ddff&fire=00ddff&currStreakLabel=00ddff" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:dungchau.uxdev@gmail.com">
+  <a href="mailto:work.manhdung@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/chau-manh-dung-a7257a38a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
