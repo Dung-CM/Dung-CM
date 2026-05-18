@@ -1,73 +1,72 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Chau+Manh+Dung+%F0%9F%91%8B;UX+%26+Full-Stack+Web+Developer;Bridging+Web2+%26+Web3+Experiences" alt="Typing SVG" />
-</div>
 
-<h3 align="center">Crafting seamless digital experiences through clean code and user-centered design. 🚀</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=CHAU%20MANH%20DUNG&fontSize=70&fontColor=ffffff&animation=twinkle&fontAlignY=35" width="100%" />
 
-<div align="center">
-  <a href="mailto:work.manhdung@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=🚀+UX+%26+Full-Stack+Developer;✨+Crafting+Smooth+Web+Experiences;💻+Turning+Code+Into+Art" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:dungchau.uxdev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/my_projects-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+</a>
+
 </div>
 
 <br/>
 
 ---
 
-### 👨‍💻 About Me
+## ⚡ My Coding Universe (Animated Skills)
 
-I am a fourth-year Information Technology student with a strong passion for **UX Design** and **Full-Stack Development**. I specialize in building B2B SaaS platforms, seamlessly connecting traditional enterprise software with the transparent, trustless nature of decentralized technologies. 
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,alpinejs,php,laravel,mysql,git,vscode,figma,postman" />
+  </marquee>
+</div>
 
-- 🔭 I’m currently working on: **MDTrace** (A Hybrid Web2.5 Supply Chain Traceability Platform).
-- 🌱 I’m currently diving deeper into: **UX/UI Design Thinking, System Architecture, and Smart Contracts**.
-- 💡 My philosophy: **"Functionality makes it work; UX makes it matter."**
-- 💬 Ask me about: **Laravel, Backend Integration, and Web3 implementations.**
+<br/>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🏆 Featured Product: MDTrace
+
+> *Hybrid Web2.5 Supply Chain Traceability Platform*
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,alpinejs&theme=light" alt="Frontend Skills" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,solidity,postman,git,github,vscode&theme=light" alt="Backend & Tools" />
+  <img src="https://via.placeholder.com/600x300.png?text=⚡+Upload+MDTrace+Demo+GIF+Here+⚡" alt="MDTrace Demo" style="border-radius: 15px; border: 3px solid #10B981; box-shadow: 0 0 15px #10B981;" width="100%" />
+  
+  <br/><br/>
+  
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/mdtrace" target="_blank">
+    <img src="https://img.shields.io/badge/EXPLORE%20CODE-10B981?style=for-the-badge&logo=github-arrows&logoColor=white" alt="Explore Code" />
   </a>
 </div>
 
-<br/>
-
 ---
 
-### 🏆 Featured Project: MDTrace
-
-**MDTrace** is a B2B SaaS platform ensuring data integrity in supply chains by leveraging MySQL for high-speed retrieval and **Ethereum Sepolia** as an immutable Notary Layer. 
+## 📊 GitHub Pulse
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Upload+Your+Awesome+GIF+Demo+Here" alt="MDTrace Demo" style="border-radius: 10px; max-width: 100%;" />
-</div>
-
-**Key Features:**
-- 🛡️ **Frictionless Web3 UX:** Server-side offline transaction signing (No MetaMask required for users).
-- 🚨 **Tamper Detection:** Dynamic hash verification mapping live MySQL data against Smart Contract proofs.
-- ⚡ **Auto-fill & Async Actions:** Fetch API integration for intelligent data auto-filling and Laravel queue for asynchronous emails.
-
-👉 [**View MDTrace Source Code**](https://github.com/YOUR_GITHUB_USERNAME/mdtrace)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981" alt="GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" width="49.5%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=10B981" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981" alt="Top Languages" width="50%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=footer" width="100%" />
 </div>
