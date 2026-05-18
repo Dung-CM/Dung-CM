@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00ddff&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Welcome+to+my+Ocean+of+Code;%F0%9F%90%AC+Crafting+Fluid+User+Experiences;%F0%9F%8C%8A+Full-Stack+Web+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00ddff&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Welcome+to+my+Ocean+of+Code;%F0%9F%90%AC+Crafting+Fluid+User+Experiences;%F0%9F%8C%8A+UXUI+Web+Explorer" alt="Typing SVG" />
 
 <br/>
 
@@ -45,8 +45,8 @@ My approach combines **User-Centered Design Thinking** with clean, efficient cod
 ## 🌊 Waves of Contribution
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ddff&icon_color=00ddff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00ddff&fire=00ddff&currStreakLabel=00ddff" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dung-CM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ddff&icon_color=00ddff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dung-CM&theme=tokyonight&hide_border=true&background=0D1117&ring=00ddff&fire=00ddff&currStreakLabel=00ddff" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
