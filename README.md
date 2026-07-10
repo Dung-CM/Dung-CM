@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Chau Manh Dung**, a passionate **UX & Full-Stack Web Developer**. I am dedicated to building smooth, intuitive digital interfaces and secure backend architectures. 
+Hello! I'm **Chau Manh Dung**, a passionate **UX & Web Developer**. I am dedicated to building smooth, intuitive digital interfaces and secure backend architectures. 
 
 My approach combines **User-Centered Design Thinking** with clean, efficient code to create digital products that not only work flawlessly but also delight users.
 
